@@ -1,0 +1,49 @@
+{
+    "Cardapio":{
+        "lanches":{
+            "tradicionais":[
+            ["Simples",["1 Vina", "Maionese", "Ketchup", "Mostarda", "Tomate, Cebola", "Milho", "Batata-Palha"],14.00],
+            ["Especial", ["1 Vina", "Maionese", "Ketchup", "Mostarda", "Tomate, Cebola", "Milho","Pepino(Pícles)","Farofa","Queijo-Ralado","Batata-Palha"],16]
+            
+        ],
+            "prensados":[
+                ["Catupiry",["1 Vina","Maionese","Tomate","Cebola","Milho","Batata Palha","FRANGO DESFIADO","CATUPIRY"],16.00],
+                ["Cheddar",["1 Vina","Maionese","Tomate","Cebola","Milho","Batata Palha","FRANGO DESFIADO","CHEDDAR"],16.00],
+                ["4 Queijos",["1 Vina","Maionese","Tomate","Cebola","Milho","Batata Palha","FRANGO DESFIADO","4 QUEIJOS"],16.00],
+                ["Pizza",["1 Vina","Maionese","Tomate","Cebola","Milho","Oreano","Batata Palha","PRESUNTO","QUEIJO MUÇARELA"],16.00],
+                ["Purê de Batata",["1 Vina","Maionese","Tomate","Cebola","Milho","Pimentão Verde","Batata Palha","PURÊ de Batata"],16.00],
+                ["Bacon",["1 Vina","Maionese","Tomate","Cebola","Milho","BACON","Batata Palha"],19.00],
+                ["Calabresa",["1 Vina","Maionese","Tomate","Cebola","Milho","CALABRESA","Batata Palha"],19.00],
+                ["Cream Cheese",["1 Vina","Maionese","Tomate","Cebola","Milho","Pimentão Verde","FRANGO DESFIADO","CREAM CHEESE","Batata Palha"],20.00]    
+            ],
+            "premium":[
+                ["Provolone Fatiado",["1 Vina","Maionese","Tomate","Cebola","Milho","Pimentão Verde","FRANGO DESFIADO","QUEIJO PROVOLONE","Batata Palha"],19.00],
+                ["Carne Queijo",["1 Vina","Maionese","Tomate","Cebola","Milho","CARNE MOÍDA TEMPERADA","QUEIJO MUÇARELA","Batata Palha"],20.00],
+                ["Mexicano",["1 Vina","Maionese","Tomate","Cebola","Pimentão Verde","Pimenta Calabresa","CARNE MOÍDA TEMPERADA","CHEDDAR","NACHOS"],20.00]
+            ]
+        
+            },
+            "adicionais":[
+                ["Vina",2.00],
+                ["Farofa",1.00],
+                ["Queio Ralado",2.00],
+                ["Pepino(Pícles)",2.00],
+                ["Cheddar",4.00],
+                ["Catupiry",4.00],
+                ["4 Queijos",4.00],
+                ["Purê",4.00],
+                ["Cream Cheese",7.00],
+                ["Bacon",6.00],
+                ["Calabresa",6.00]
+            ],
+            "bebidas":[
+                ["Refrigerante Lata",6.00],
+                ["Suco 500ml",5.00],
+                ["Chá copo",5.00],
+                ["Água 500ml SEM Gás",3.00],
+                ["Água 500ml COM Gás",3.00],
+                ["Refrigerante 1 Litro",12.00],
+                ["Suco 1 Litro",10.00]
+            ]
+        }
+}
