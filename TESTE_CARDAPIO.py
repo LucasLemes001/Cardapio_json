@@ -76,7 +76,7 @@ with open('dog.json',encoding='utf-8') as json_dog:
 
 def printar_cardapio(chaves_do_arquivo,indice_nome_do_lanche,indice_valor_do_lanche,personalizar_Numero_da_iteração):
     for posicao, lanche in enumerate(chaves_do_arquivo):
-        print(f'{cores["branco"]}[{posicao+personalizar_Numero_da_iteração}]{cores["amarelo"]+fonte["negrito"]} - {lanche[indice_nome_do_lanche]:^15}{cores["branco"]} R$ {+lanche[indice_valor_do_lanche]:<5.2f}')
+        print(f'{posicao+personalizar_Numero_da_iteração}  {lanche[indice_nome_do_lanche]:^15} R$ {+lanche[indice_valor_do_lanche]:<5.2f}')
     margem(1,'><')
     
 

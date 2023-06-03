@@ -1,0 +1,292 @@
+[
+    {
+        "nome": "simples",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Ketchup",
+            "Mostarda",
+            "Tomate, Cebola",
+            "Milho",
+            "Batata Palha"
+        ],
+        "preco": 14
+    },
+    {
+        "nome": "especial",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Ketchup",
+            "Mostarda",
+            "Tomate, Cebola",
+            "Milho",
+            "Pepino(Picles)",
+            "Farofa",
+            "Queijo Ralado",
+            "Batata Palha"
+        ],
+        "preco": 16
+    },
+    {
+        "nome": "catupiry",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Milho",
+            "Batata Palha",
+            "FRANGO DESFIADO",
+            "CATUPIRY"
+        ],
+        "preco": 16
+    },
+    {
+        "nome": "cheddar",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Milho",
+            "Batata Palha",
+            "FRANGO DESFIADO",
+            "CHEDDAR"
+        ],
+        "preco": 16
+    },
+    {
+        "nome": "4 queijos",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Milho",
+            "Batata Palha",
+            "FRANGO DESFIADO",
+            "4 QUEIJOS"
+        ],
+        "preco": 16
+    },
+    {
+        "nome": "pizza",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Milho",
+            "Oregano",
+            "Batata Palha",
+            "PRESUNTO",
+            "QUEIJO MUCARELA"
+        ],
+        "preco": 16
+    },
+    {
+        "nome": "pure de batata",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Milho",
+            "Pimentao Verde",
+            "Batata Palha",
+            "Pure de Batata"
+        ],
+        "preco": 16
+    },
+    {
+        "nome": "bacon",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Milho",
+            "BACON",
+            "Batata Palha"
+        ],
+        "preco": 19
+    },
+    {
+        "nome": "calabresa",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Milho",
+            "CALABRESA",
+            "Batata Palha"
+        ],
+        "preco": 19
+    },
+    {
+        "nome": "cream cheese",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Milho",
+            "Pimentao Verde",
+            "FRANGO DESFIADO",
+            "CREAM CHEESE",
+            "Batata Palha"
+        ],
+        "preco": 20
+    },
+    {
+        "nome": "provolone fatiado",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Milho",
+            "Pimentao Verde",
+            "FRANGO DESFIADO",
+            "QUEIJO PROVOLONE",
+            "Batata Palha"
+        ],
+        "preco": 19
+    },
+    {
+        "nome": "carne queijo",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Milho",
+            "CARNE MOIDA TEMPERADA",
+            "QUEIJO MUCARELA",
+            "Batata Palha"
+        ],
+        "preco": 20
+    },
+    {
+        "nome": "mexicano",
+        "ingrediente": [
+            "1 Vina",
+            "Maionese",
+            "Tomate",
+            "Cebola",
+            "Pimentao Verde",
+            "Pimenta Calabresa",
+            "CARNE MOIDA TEMPERADA",
+            "CHEDDAR",
+            "NACHOS"
+        ],
+        "preco": 20
+    },
+    {
+        "nome": "adicional de vina",
+        "ingrediente": [
+            "1 Vina"
+        ],
+        "preco": 2
+    },
+    {
+        "nome": "adicional de farofa",
+        "ingrediente": [
+            "Farofa"
+        ],
+        "preco": 1
+    },
+    {
+        "nome": "adicional de Queijo Ralado",
+        "ingrediente": [
+            "Queijo Ralado"
+        ],
+        "preco": 2
+    },
+    {
+        "nome": "adicional de Pepino(Picles)",
+        "ingrediente": [
+            "Pepino(Picles)"
+        ],
+        "preco": 2
+    },
+    {
+        "nome": "adicional de Cheddar",
+        "ingrediente": [
+            "CHEDDAR"
+        ],
+        "preco": 4
+    },
+    {
+        "nome": "adicional de Catupiry",
+        "ingrediente": [
+            "CATUPIRY"
+        ],
+        "preco": 4
+    },
+    {
+        "nome": "adicional de 4 Queijos",
+        "ingrediente": [
+            "4 QUEIJOS"
+        ],
+        "preco": 4
+    },
+    {
+        "nome": "adicional de Pure",
+        "ingrediente": [
+            "Pure de Batata"
+        ],
+        "preco": 4
+    },
+    {
+        "nome": "adicional de Cream Cheese",
+        "ingrediente": [
+            "CREAM CHEESE"
+        ],
+        "preco": 7
+    },
+    {
+        "nome": "adicional de Bacon",
+        "ingrediente": [
+            "BACON"
+        ],
+        "preco": 6
+    },
+    {
+        "nome": "adicional de Calabresa",
+        "ingrediente": [
+            "CALABRESA"
+        ],
+        "preco": 6
+    },
+    {
+        "nome": "Refrigerante Lata",
+        "preco": 6
+    },
+    {
+        "nome": "Suco 450ml",
+        "preco": 5
+    },
+    {
+        "nome": "Cha Copo",
+        "preco": 5
+    },
+    {
+        "nome": "Agua 500ml SEM GAS",
+        "preco": 3
+    },
+    {
+        "nome": "Agua 500ml COM GAS",
+        "preco": 3
+    },
+    {
+        "nome": "Refrigerante 1LITRO",
+        "preco": 12
+    },
+    {
+        "nome": "Suco 1LITRO",
+        "preco": 10
+    }
+]
