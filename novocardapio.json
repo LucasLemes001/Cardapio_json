@@ -271,22 +271,37 @@
     },
     {
         "nome": "Cha Copo",
+        "ingrediente": [
+            "Cha Copo350ml"
+        ],
         "preco": 5
     },
     {
         "nome": "Agua 500ml SEM GAS",
+        "ingrediente": [
+            "Agua Sem Gas"
+        ],
         "preco": 3
     },
     {
         "nome": "Agua 500ml COM GAS",
+        "ingrediente": [
+            "Agua Com Gas"
+        ],
         "preco": 3
     },
     {
         "nome": "Refrigerante 1LITRO",
+        "ingrediente": [
+            "Refrigerante Litro"
+        ],
         "preco": 12
     },
     {
         "nome": "Suco 1LITRO",
+        "ingrediente": [
+            "Suco Del Vale Litro"
+        ],
         "preco": 10
     }
 ]
