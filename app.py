@@ -8,8 +8,8 @@ import sqlite3, sqlalchemy, json, flask
 # FAZER UMA SEQUENCIA ONDE VOU PEGAR
 #          NOME DO DOGAO / INGREDIENTES / VALOR
 
-with open('novocardapio.json','r') as cardapio:
-    cardapio = json.load(cardapio)
-    for lanche in cardapio:
-        print(lanche["ingrediente"])
+with open('novocardapio.json','r') as arquivo:
+    cardapio = json.load(arquivo)
+    for dicionario in cardapio:
+        print(dicionario['ingrediente'])
         

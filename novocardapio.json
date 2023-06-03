@@ -263,10 +263,16 @@
     },
     {
         "nome": "Refrigerante Lata",
+        "ingrediente": [
+            "Refrigerante Lata 350ml"
+        ],
         "preco": 6
     },
     {
         "nome": "Suco 450ml",
+        "ingrediente": [
+            "Suco Del Vale Garrafinha 450ml"
+        ],
         "preco": 5
     },
     {
@@ -277,30 +283,30 @@
         "preco": 5
     },
     {
-        "nome": "Agua 500ml SEM GAS",
+        "nome": "Agua SEM GAS",
         "ingrediente": [
-            "Agua Sem Gas"
+            "Agua Sem Gas 500ml"
         ],
         "preco": 3
     },
     {
-        "nome": "Agua 500ml COM GAS",
+        "nome": "Agua COM GAS",
         "ingrediente": [
-            "Agua Com Gas"
+            "Agua Com Gas 500ml"
         ],
         "preco": 3
     },
     {
-        "nome": "Refrigerante 1LITRO",
+        "nome": "Refrigerante LITRO",
         "ingrediente": [
-            "Refrigerante Litro"
+            "Refrigerante 1 Litro"
         ],
         "preco": 12
     },
     {
-        "nome": "Suco 1LITRO",
+        "nome": "Suco LITRO",
         "ingrediente": [
-            "Suco Del Vale Litro"
+            "Suco Del Vale 1 Litro"
         ],
         "preco": 10
     }
